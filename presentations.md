@@ -10,6 +10,9 @@ subtitle: Previous Talks
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*March 6, 2017*
 
 <a herf="https://cdn.rawgit.com/Murph45/fs102Spring2017-presentation2-Murph45/3ee48c6f/seke2015_panel.html#/"><img src="/img/4363849885_75fd743f16_z.jpg" alt=""></a>
+
+
+
 [Piracy](https://cdn.rawgit.com/Murph45/fs102Spring2017-presentation2-Murph45/3ee48c6f/seke2015_panel.html) The purpose of this presentaion is to expand readers understanding of piracy and to clearify why some people do it.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FS 102 Spring 2017**        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*April 12, 2017*
